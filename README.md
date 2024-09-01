@@ -28,3 +28,5 @@ This project is part of an effort to:
 - Learn best practices for error handling and user input validation.
 
 # Screenshot
+![Screenshot (3)](https://github.com/user-attachments/assets/7f46c84e-625b-4d9a-b5b2-b50f77cd9f08)
+![Screenshot (4)](https://github.com/user-attachments/assets/293a5e4e-46bc-48b1-bee4-83fd5f83b019)
